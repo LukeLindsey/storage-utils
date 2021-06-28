@@ -127,7 +127,7 @@
     "tslint-config-standard": "9.0.0",
     "typedoc": "0.17.7",
     "typescript": "3.9.5",
-    "uglify-js": "3.9.4",
+    "uglify-js": "3.13.10",
     "validate-commit-msg": "2.14.0"
   },
   "peerDependencies": {
